@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+pandas
+scipy
+
+# Machine Learning and Statistical Models
+scikit-learn
+
+# Deep Learning Libraries
+tensorflow      # TensorFlow (with Keras integrated)
+torch           # PyTorch for deep learning flexibility
+transformers   # Hugging Face library for NLP
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Image Processing (for computer vision tasks)
+Pillow
+opencv-python
+
+# NLP (Natural Language Processing) Libraries
+nltk
+spacy          # spaCy for NLP processing, requires additional model download
+
+# Other Useful Tools
+jupyter          # Jupyter Notebook for interactive work
+ipykernel        # Kernel for Jupyter Notebook support
+jupyterlab       # For enhanced Jupyter interface
